@@ -194,6 +194,7 @@ div.cardBAC h5.card-title{
 
 .projects-section .featured-text {
   padding: 2rem;
+  padding-top: 0;
 }
 
 @media (min-width: 992px) {
