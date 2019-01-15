@@ -203,6 +203,11 @@ div.cardBAC h5.card-title{
     padding: 0 0 0 2rem;
     border-left: 0.5rem solid #64a19d;
   }
+  .projectFestival{
+   padding-right: 2rem;
+   border-right: 0.5rem solid #64a19d;
+   border-left: 0rem;
+ }
 }
 
 .projects-section .project-text {
@@ -303,7 +308,7 @@ height: 20vh;
 }
 
 #projects{
-  background: linear-gradient(to bottom, #161616 0%, rgba(22, 22, 22, 0.9) 10%, rgba(248, 249, 250, 0.8) 40%);
+  background: linear-gradient(to bottom, #161616 0%, rgba(22, 22, 22, 0.9) 45%, rgba(248, 249, 250, 0.8) 95%);
 }
 h4, h2{
   font-weight: bold;
